@@ -1,0 +1,10 @@
+pip install django==2.0
+pip install django-crispy-forms
+pip install django-formtools
+pip install httplib2
+pip install future
+pip install six
+pip install django-import-export
+pip install django-reversion
+pip install pymysql
+pip install markdown

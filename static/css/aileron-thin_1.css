@@ -1,0 +1,12 @@
+/* Webfont: Aileron-Thin */@font-face {
+    font-family: 'AileronThin';
+    src: url('../fonts/aileron-thin.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/aileron-thin.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/aileron-thin.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/aileron-thin.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/aileron-thin.svg#aileron-thin') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

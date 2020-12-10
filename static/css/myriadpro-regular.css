@@ -1,0 +1,12 @@
+/* Webfont: MyriadPro-Regular */@font-face {
+    font-family: 'MyriadPro';
+    src: url('../fonts/myriadpro-regular.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/myriadpro-regular.eot') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/myriadpro-regular.woff') format('woff'), /* Modern Browsers */
+         url('../fonts/myriadpro-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/myriadpro-regular.svg#myriadpro-regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
