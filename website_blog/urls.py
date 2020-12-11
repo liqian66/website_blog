@@ -19,6 +19,6 @@ import xadmin
 urlpatterns = [
     #path('xadmin/', xadmin.site.urls),
     path('xadmin/', xadmin.site.urls),
-    path('index/', include('storm.urls',namespace='index1'))
+    path('', include('storm.urls',namespace='index1'))
 
 ]

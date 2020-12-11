@@ -27,8 +27,8 @@ SECRET_KEY = 'o(gr7u*fb3$sx8qyb24^*4e(gmn=t!3!@@q$t&gz(dx-(15^0k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['*',]
-ALLOWED_HOSTS = ['49.235.97.55','www.kangbaobei.top']
+# ALLOWED_HOSTS = ['49.235.97.55','www.kangbaobei.top']
+ALLOWED_HOSTS = ['*',]
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
@@ -98,6 +98,7 @@ DATABASES = {
         'PORT': '3306',
         'USER': 'root',
         'PASSWORD': 'root',
+        #''PASSWORD': '123456','
         'NAME': 'website_blog',
 
     }
