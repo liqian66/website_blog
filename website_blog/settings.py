@@ -28,7 +28,7 @@ SECRET_KEY = 'o(gr7u*fb3$sx8qyb24^*4e(gmn=t!3!@@q$t&gz(dx-(15^0k'
 DEBUG = True
 
 # ALLOWED_HOSTS = ['*',]
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['49.235.97.55','www.kangbaobei.top']
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
